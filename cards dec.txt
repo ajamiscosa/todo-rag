@@ -388,7 +388,7 @@ Weight :^777777 1^000000
 #
 4053#
 Enables use of ^008800Level 3 Heal^000000.
-Adds a 100% chance to cast ^008800Level 10 Increase AGI and Blessing^000000 to self when using ^008800Heal^000000.
+Add a 100% chance to cast ^008800Level 10 Increase AGI and Blessing^000000 to self when using ^008800Heal^000000.
 Class :^777777 Card^000000
 Compound on :^777777 Accessory^000000
 Weight :^777777 1^000000
@@ -776,7 +776,7 @@ Compound on :^777777 Garment^000000
 Weight :^777777 1^000000
 #
 4110#
-Adds a 20% chance of auto casting ^880000Curse^000000 on an enemy when the user receives Physical Damage
+Add a 20% chance of auto casting ^880000Curse^000000 on an enemy when the user receives Physical Damage
 Class :^777777 Card^000000
 Compound on :^777777 Armor^000000
 Weight :^777777 1^000000
@@ -809,7 +809,7 @@ Compound on :^777777 Armor^000000
 Weight :^777777 1^000000
 #
 4115#
-Adds a 10% chance to gain 50% of damage inflicted as HP with each attack.
+Add a 10% chance to gain 50% of damage inflicted as HP with each attack.
 Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
@@ -822,7 +822,7 @@ Compound on :^777777 Garment^000000
 Weight :^777777 1^000000
 #
 4117#
-Adds a good chance of casting ^880000Double Attack^000000 with every attack.
+Add a good chance of casting ^880000Double Attack^000000 with every attack.
 Class :^777777 Card^000000
 Compound on :^777777 Accessory^000000
 Weight :^777777 1^000000
@@ -855,7 +855,7 @@ Weight :^777777 1^000000
 #
 4122#
 STR + 2
-Adds a small chance to cast Lv. 5 ^880000Evil Land^000000 in the area around the caster when receiving enemy attack.
+Add a small chance to cast Lv. 5 ^880000Evil Land^000000 in the area around the caster when receiving enemy attack.
 Class :^777777 Card^000000
 Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
@@ -1236,7 +1236,7 @@ Attack + 10
 Inflict 20% more damage with Critical attacks.
 Drain 1 SP from its owner on each attack.
 Attack + 10
-[^000088+ Wanderer & Wild Rose^000000]
+[^000088Wanderer & The Paper & Wild Rose Card Combo^000000]
 ՠAssassin tree only
 ՠAGI + 3
 ՠSTR + 3
@@ -1358,7 +1358,7 @@ LUK + 1, VIT + 1.
 Maximum HP + 5%, DEF + 5.
 [^333399Refine Rate 9~10^000000]
 Maximum HP + 5%
-[^000088+ Zipper Bear & Myst Case Combo^000000]
+[^000088Raggler & Zipper Bear & Myst Case Combo^000000]
 [^008800Blacksmith tree Class^000000]
 ՠRestore 2 SP every time when attacking.
 ՠInflict 30% more damage with ^008800Mammonite^000000.
@@ -1523,7 +1523,7 @@ Compound on :^777777 Footgear^000000
 Weight :^777777 1^000000
 #
 4205#
-Adds a chance of gaining "Old Blue Box" each time a monster is killed.
+Add a chance of gaining "Old Blue Box" each time a monster is killed.
 Class :^777777 Card^000000
 Compound on :^777777 Accessory^000000
 Weight :^777777 1^000000
@@ -1531,7 +1531,7 @@ Weight :^777777 1^000000
 4206#
 LUK + 2
 Add a chance of gaining "Gift Box" each time a monster is killed.
-[^000088Myst Case & Raggler & Zipper Bear & Combo^000000]
+[^000088Raggler & Zipper Bear & Myst Case Combo^000000]
 Class :^777777 Card^000000
 Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
@@ -1549,14 +1549,6 @@ Maximum HP + 5%, Matk + 1%
 [^333399Refine Rate 9~10^000000]
 Maximum HP + 5%, Matk + 1%.
 [^000088Miyabi Doll & Evil Nymph & Bloody Butterfly^000000]
-[^008800Sage, Professor^000000]
-ՠINT + 3
-ՠDEX + 3
-ՠAttack speed + 5%
-ՠMatk + 5%
-ՠMax HP + 10%
-ՠReflect single target Magic back at the caster (Success Chance 20%).
-ՠReduce Casting Time by 30%.
 Class :^777777 Card^000000
 Compound on :^777777 Footgear^000000
 Weight :^777777 1^000000
@@ -1614,7 +1606,7 @@ Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
 #
 4215#
-Adds a small chance when using ^008800 Sight/Ruwach^000000 to gain the Maya Purple effect for 0.2 seconds
+Add a small chance when using ^008800 Sight/Ruwach^000000 to gain the Maya Purple effect for 0.2 seconds
 Class :^777777 Card^000000
 Compound on :^777777 Accessory^000000
 Weight :^777777 1^000000
@@ -1652,8 +1644,7 @@ Weight :^777777 1^000000
 #
 4220#
 Reduce movement speed by 20%.
-Increase damage of ^008800Pierce^000000 by 100%.
-Gain 50% movement speed for 2 seconds when using ^008800Pierce^000000.
+Increase damage of ^008800Pierce^000000 by 100%.w
 [^333399Refine Rate 9~10^000000]
 Additional 50% ^008800Pierce^000000 damage.
 Class :^777777 Card^000000
@@ -1667,10 +1658,10 @@ Class :^777777 Card^000000
 Compound on :^777777 Footgear^000000
 Weight :^777777 1^000000
 #
-4222#TODO//revert,aero days.
-+ 20% magic damage against Undead.
+4222#
+Enables the use of ^00FF00Level 5 Improve Concentration^000000.
 Class :^777777 Card^000000
-Compound on :^777777 Armor^000000
+Compound on :^777777 Accessory^000000
 Weight :^777777 1^000000
 #
 4223#TODO//rework
@@ -1720,8 +1711,16 @@ Weight :^777777 1^000000
 #
 4229#
 INT + 1
-Casting delay -5%
+Casting delay -10%
 Decrease casting delay by 1% per refine rate.
+[^000088Tower Manager & Clock & Alarm Card Combo^000000]
+ՠINT + 3
+ՠDEX + 3
+ՠMatk + 10%
+ՠMaximum HP & SP + 5%
+ՠCasting Delay - 15%
+ՠCasting Time - 15%
+ՠMovement Speed + 10%
 Class :^777777 Card^000000
 Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
@@ -1733,7 +1732,7 @@ Class :^777777 Card^000000
 Compound on :^777777 Accessory^000000
 Weight :^777777 1^000000
 #
-4231#TODO//rework
+4231#
 Gains 40% damage reduction when using ^008800Shield Charge^000000 for 2 seconds.
 Greatly increases your Attack when using ^008800Shield Charge^000000 for 2 seconds.
 Gains 150 Hit when ^008800Level 5 Shield Charge^000000 is learned.
@@ -1744,9 +1743,9 @@ Class :^777777 Card^000000
 Compound on :^777777 Shield^000000
 Weight :^777777 1^000000
 #
-4232#TODO//rework
+4232#
 INT + 1
-^008800 +Grand Peco card^000000
+[^008800Hermit Plant & Grand Peco Card Combo^000000]
 100% chance to gain Matk + 15% for 1 second when attacking
 Class :^777777 Card^000000
 Compound on :^777777 Accessory^000000
@@ -1791,29 +1790,23 @@ Class :^777777 Card^000000
 Compound on :^777777 Footgear^000000
 Weight :^777777 1^000000
 #
-4237#TODO//revert
-All stats + 1
-+ 2% Long ranged damage reduction
-[^000088+ Owl Baron^000000]
-Additional ALL stats + 2
-Additional 8% Long ranged damage reduction
+4237#
+Add a 0.3% chance of auto casting ^008800Level 3 Impositio Manus^000000 on the user when the user receives Physical Damage.
+[^000088Owl Baron & Owl Duke Card Combo^000000]
+Add a 5% chance of auto casting ^008800Level 5 Lightning Bolt^000000 on an enemy when the user receives Physical Damage.
 Class :^777777 Card^000000
 Compound on :^777777 Accessory^000000
 Weight :^777777 1^000000
 #
-4238#TODO//revert
-All Stats + 1
-+ 2% Melee damage reduction
-[^000088Owl +Duke Card^000000]
-Enables use of ^008800 Auto Guard^000000 Level 1
-Additional ALL stats + 2
-Additional 8% Melee damage reduction
+4238#
+Add a 3% chance of auto casting ^008800Level 1 Lex Aeterna^000000 on an enemy when the user receives Physical Damage.
+[^000088Owl Baron & Owl Duke Card Combo^000000]
 Class :^777777 Card^000000
 Compound on :^777777 Accessory^000000
 Weight :^777777 1^000000
 #
 4239#
-Receive 10% more Experience Points from Formless monsters. In a shared-party, any member can kill the Formless monster, but only the wearer will get the extra EXP.
+Receive 10% more Experience Points from Formless monsters.
 Receive 20% more damage from Formless monster.
 Class :^777777 Card^000000
 Compound on :^777777 Footgear^000000
@@ -1826,17 +1819,24 @@ Class :^777777 Card^000000
 Compound on :^777777 Shield^000000
 Weight :^777777 1^000000
 #
-4241#TODO//revert+improve
-+ 10% damage reduction against Bosses.
-[^333399Refine Rate 9~10^000000]
-ALL Stats + 1.
-+ 5% damage reduction against Bosses.
+4241#
+Maximum HP + 700
+Maximum SP + 150
+MATK + 5%
+[^008800Base LUK >= 77^000000]
+Increase HP and SP Recovery by 100%.
+[^008800Base INT >= 77^000000]
+Increase Matk by 10%
+[^008800Base DEX >= 77^000000]
+Reduce cast time by 10%
 Class :^777777 Card^000000
 Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
 #
-4242#TODO//revert+improve
-+ 2% magic damage against Bosses per refine rate of the armor this card is compounded in.
+4242#
+VIT + 5
+[^333399Refine Rate 9~10^000000]
+Max HP + 1000
 Class :^777777 Card^000000
 Compound on :^777777 Armor^000000
 Weight :^777777 1^000000
@@ -1847,8 +1847,11 @@ Class :^777777 Card^000000
 Compound on :^777777 Armor^000000
 Weight :^777777 1^000000
 #
-4244#TODO//revert
-Gain 6% damage reduction from demi-humans while you are ^0000FF Frozen^000000
+4244#
+Maximum HP + 300
+VIT + 1
+Add a 20% chance of auto casting ^008800Level 1 Sight^000000 around the user when the user receives Physical Damage.
+[^000088Tower Manager & Clock & Alarm Card Combo^000000]
 Class :^777777 Card^000000
 Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
@@ -1861,21 +1864,8 @@ Compound on :^777777 Footgear^000000
 Weight :^777777 1^000000
 #
 4246#
-Increase damage on all enemies by 12%.
-[^000088+Permeter & Freezer & Heater^000000]
-[^008800Knight tree Class^000000]
-ՠSTR + 10
-ՠMax HP + 10%
-ՠDEF + 5
-ՠMDEF + 5
-ՠHit + 20
-ՠAttack + 20
-ՠIncrease damage to all sizes by 10%
-ՠAdd a 0.3% chance of auto casting ^008800Level 3 Weapon Perfection^000000 on the enemy when attacking.
-ՠAttack speed + 5%
-ՠCritical chance + 5%
-ՠIncrease damage of Bowling bash and Spiral Pierce by 20%
-ՠIncrease damage of Pierce by 30%
+Incrase Critical Damage by 2% for every refine of the weapon this card is compounded to.
+Increase damage on Demi-human monster by 10%.
 Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
@@ -1891,7 +1881,7 @@ Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
 #
-4248#TODO//rework. lean more on anti-undead.
+4248#
 STR + 2
 INT + 2
 Attack speed + 30% for 0.5 second after using ^008800Holy Cross^000000.
@@ -1917,17 +1907,15 @@ Class :^777777 Card^000000
 Compound on :^777777 Shield^000000
 Weight :^777777 1^000000
 #
-4251#TODO//rework. lean more on MAtk stuff.
-Unlock the true potential of ancient ^008800First Aid^000000.
-Reduce your casting time by 50% and casting delay by 15% when using ^008800First Aid^000000.
-^008800First Aid^000000 gains a 3-minute cooldown if you are at Max Level.
-(5-minute cooldown if you are below Max Level.)
+4251#
+INT + 1
+Ignores 5% Magic Defense of Demi-human monsters.
 Class :^777777 Card^000000
-Compound on :^777777 Headgear^000000
+Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
 #
-4252#TODO//improve
-Receive 5% less damage from Long Range Physical attack.
+4252#
+Receive 10% less damage from Long Range Physical attack.
 Class :^777777 Card^000000
 Compound on :^777777 Accessory^000000
 Weight :^777777 1^000000
@@ -1971,47 +1959,64 @@ Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
 #
 4257#
-AGI + 1, Maximum HP + 5%.
+AGI + 2, Maximum HP + 5%.
 [^008800Thief Class^000000]
 Perfect Dodge + 5.
 [^333399Refine Rate 9~10^000000]
 Maximum HP + 5%.
-[^000088+Wanderer & The Paper^000000]
+[^000088Wanderer & The Paper & Wild Rose Card Combo^000000]
 Class :^777777 Card^000000
 Compound on :^777777 Footgear^000000
 Weight :^777777 1^000000
 #
 4258#
 INT + 2
-Matk + 1%
+Matk + 5%
 [^008800Wizard Class^000000]
-[^000088+ Miyabi Doll & Harpy card Combo^000000]
+[^000088Wicked Nymph & Miyabi Doll & Harpy card Combo^000000]
 [^008800Sage Class^000000]
-[^000088+ Miyabi Doll & Bloody Butterfly card Combo^000000]
+[^000088Wicked Nymph & Miyabi Doll & Bloody Butterfly card Combo^000000]
 Class :^777777 Card^000000
 Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
 #
 4259#
-Maximum SP -40%
-Add a 7.5% chance to cast ^008800Asura Strike Level 5^000000 for each level of ^008800Triple Attack^000000.
-Maximum 75% chance at Level 10 ^008800Triple Attack^000000.
-Does not work with bows.
+DEF + 2
+[^008800Crusader, Paladin^000000]
+Add a small chance to activate [^008800Castle of Stone^000000] which drastically reduce user's movement speed while giving 5% HP Recovery Rate and increasing DEF and MDEF by 99 for 5 seconds when the user's HP drops below 20%
+[^000088Wooden Golem & Wootan Shooter & Wootan Fighter card Combo^000000]
+[^008800Crusader, Paladin^000000]
+ՠINT + 3
+ՠSTR + 3
+ՠVIT + 3
+ՠAttack power + 2%
+ՠMatk + 2%
+ՠAttack speed + 10%
+ՠMax HP + 10%
+ՠDEF + 2
+ՠSP Recovery + 10%
+ՠInflict 30% more damage with Grand Cross, Holy Cross, and Sacrifice.
+ՠReduce Casting Time by 10%.
+ՠBlesses an Armor with the ^777777Holy^000000 Property.
+ՠIncreases the chance of activating [^008800Castle of Stone^000000].
 Class :^777777 Card^000000
-Compound on :^777777 Accessory^000000
+Compound on :^777777 Shield^000000
 Weight :^777777 1^000000
 #
 4260#
-^008800Asura Strike^000000 damage -30%
-Gain 300 SP per second after casting ^008800Asura Strike^000000 for 9 seconds.
+DEF + 1
+HP Recovery + 30%
 Class :^777777 Card^000000
-Compound on :^777777 Headgear^000000
+Compound on :^777777 Footgear^000000
+[^000088Wooden Golem & Wootan Shooter & Wootan Fighter card Combo^000000]
 Weight :^777777 1^000000
 #
 4261#
 Endow a weapon with damage that will splash in a 3x3 area around the character with each attack.
+STR + 1, VIT + 1
+[^000088Wooden Golem & Wootan Shooter & Wootan Fighter card Combo^000000]
 Class :^777777 Card^000000
-Compound on :^777777 Headgear^000000
+Compound on :^777777 Armor^000000
 Weight :^777777 1^000000
 #
 4262#TODO//rework
@@ -2040,7 +2045,7 @@ Class :^777777 Card^000000
 Compound on :^777777 Accessory^000000
 Weight :^777777 1^000000
 #
-4266#TODO//rework
+4266#
 + 10% resistance to All elements.
 [^333399Refine Rate 9~10^000000]
 + 5% resistance to All elements.
@@ -2055,9 +2060,11 @@ Class :^777777 Card^000000
 Compound on :^777777 Footgear^000000
 Weight :^777777 1^000000
 #
-4268#TODO//revert+improve
-[^333399Blacksmith Class only^000000]
-20% chance to cast ^008800Hammer Fall Level 5^000000 on your position when being attacked.
+4268#
+Add a 5% chance of auto casting ^008800Level 5 Sonic Blow^000000 on the enemy when attacking.
+[^000088Injustice & Zherlthsh Card Combo^000000]
+ATK + 20
+LUK + 3
 Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
@@ -2076,9 +2083,8 @@ Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
 #
 4270#
-Max HP + 2% every 2 refine rate of the armor this card is compounded in
-DEF + 2 every 2 refine rate of the armor this card is compounded in
-MDEF - 2 every 2 refine rate of the armor this card is compounded in
+AGI + 1
+Add a 5% chance of auto casting ^008800Level 5 Poison React^000000 on the enemy when receiving physical damage.
 Class :^777777 Card^000000
 Compound on :^777777 Armor^000000
 Weight :^777777 1^000000
@@ -2090,7 +2096,7 @@ Class :^777777 Card^000000
 Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
 #
-4272#TODO//revert+improve
+4272#
 Auto-cast ^008800Kaupe Level 3^000000 on yourself when using ^008800Kaupe^000000.
 Auto-cast ^008800Kaite Level 1^000000 on yourself when using ^008800Kaite^000000.
 SP Consumption + 15%.
@@ -2098,32 +2104,29 @@ Class :^777777 Card^000000
 Compound on :^777777 Accessory^000000
 Weight :^777777 1^000000
 #
-4273#TODO//rework
+4273#
 [^333399Only works if you are using 2H melee weapons or Dual-Wielding^000000]
 Gain 20% damage reduction for 1 sec while attacking normally.
 Class :^777777 Card^000000
 Compound on :^777777 Armor^000000
 Weight :^777777 1^000000
 #
-4274#TODO//rework
-Increase damage on Demon monster by 5%.
+4274#
+ATK + 5
+For 5 seconds Life Steal + 50% when attacking enemies.
 Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
 #
 4275#
-Gain 1% attack speed per 9 Base LUK.
-Gain 1% critical damage per 9 Base LUK.
-SP Consumption + 50%.
-[^333399Level 99^000000]
-Gain additional 0.5% attack speed per 9 Base LUK.
-Gain additional 1% critical damage per 9 Base LUK.
+Gain 3% critical damage per 9 Base LUK.
 Class :^777777 Card^000000
 Compound on :^777777 Accessory^000000
 Weight :^777777 1^000000
 #
-4276#TODO//rework
-+ 30% more damage to Bosses
+4276#
+Add a 20% chance to inflict ^880000Curse^000000 to an enemy while attacking.
+Add a 1% chance to activate ^880000Reaper's Wrath^000000 while attacking which massively increases the user's damage for 1 second. 
 Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
@@ -2132,15 +2135,15 @@ Weight :^777777 1^000000
 LUK + 2
 Inflict 25% more damage with ^008800Arrow Vulcan^000000.
 [^333399Refine Rate 9~10^000000]
-Additional 10% ^008800Arrow Vulcan^000000 damage.
+Reduce ^008800Arrow Vulcan^000000's casting time by half.
 Class :^777777 Card^000000
 Compound on :^777777 Shield^000000
 Weight :^777777 1^000000
 #
-4278#TODO//rework, move towards spear improvement.
+4278#
 [^333399Spears Only^000000]
-Gain a 0.2% chance per 1 Base Luck to cast ^008800Joint Beat Level 3^000000 when attacking.
-Gain a 0.2% chance per 1 Base Agi to cast ^008800Pierce Level 10^000000 when attacking.
+Gain a 0.2% chance per 1 Base LUK to cast ^008800Joint Beat Level 3^000000 when attacking.
+Gain a 0.2% chance per 1 Base AGI to cast ^008800Pierce Level 10^000000 when attacking.
 [^333399Refine Rate 9~10^000000]
 Attack Speed + 3%.
 Class :^777777 Card^000000
@@ -2174,7 +2177,7 @@ ATK + 30
 Drain 1 SP from its owner on each attack.
 [^008800Merchant Class^000000]
 Make a weapon indestructible (except in upgrade attempts).
-[^000088+ Raggler & Myst Case Combo^000000]
+[^000088Raggler & Zipper Bear & Myst Case Combo^000000]
 Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
@@ -2200,15 +2203,17 @@ Class :^777777 Card^000000
 Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
 #
-4285#TODO//revert+improve
-+ 30% damage against ^880000 Ghost^000000 property
+4285#
+Increase ASPD by 0.5 for every refinement rate.
+Perfect Dodge + 5
+Flee Rate + 10
 Class :^777777 Card^000000
 Compound on :^777777 Garment^000000
 Weight :^777777 1^000000
 #
-4286#TODO//rework
+4286#
 Enables use of ^008800Hide Level 1^000000.
-Max HP + 2%.
+Max HP + 5%
 Class :^777777 Card^000000
 Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
@@ -2223,39 +2228,35 @@ Class :^777777 Card^000000
 Compound on :^777777 Garment^000000
 Weight :^777777 1^000000
 #
-4288#TODO//improve
+4288#
 INT + 2
 Maximum SP + 150
 [^333399Refine Rate 9~10^000000]
-add more shit here.
+INT + 2
 Class :^777777 Card^000000
 Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
 #
-4289#TODO//rework
-VIT + 2, Maximum HP + 200.
-[^333399Refine Rate 9~10^000000]
-Maximum HP + 200.
+4289#
+Add a small chance of activating ^00FF00Focus Fire^000000 while attacking which increases attack speed and critical rate to maximum while reducing damage dealt by 50% for 5 seconds.
 Class :^777777 Card^000000
 Compound on :^777777 Accessory^000000
 Weight :^777777 1^000000
 #
-4290#TODO//rework
-Chance to get a taming item when you kill a monster.
-Book of the Devil, Boy's Pure heart, Armlet of Obedience,
-Bitter Herb, Charming Lotus, Chewy Rice Powder,
-Contract in Shadow, Sweet Candy cane, Tantan Noodle
+4290#
+STR + 1
+HP Recovery + 5%
+Movement Speed + 15%
 Class :^777777 Card^000000
 Compound on :^777777 Footgear^000000
 Weight :^777777 1^000000
 #
-4291#TODO//rework
+4291#
 Def -6.
 ^008800Auto Counter^000000 SP Cost : 5.
 ^996600[2-Handed weapons]^000000
-Gain 50 Crit, 50% damage reduction for 0.5 seconds when using ^008800Auto Counter^000000.
+Gain 50 Crit, 50% damage reduction for 2 seconds when using ^008800Auto Counter^000000.
 Base STR greatly increases ^008800Auto Counter^000000 damage.
-^996600The damage bonus and reduction is halved when weilding 1-Handed weapons.^000000
 ^996600The damage reduction is halved against other demi-human players.^000000
 Class :^777777 Card^000000
 Compound on :^777777 Headgear^000000
@@ -2338,13 +2339,12 @@ Class :^777777 Card^000000
 Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
 #
-4299#TODO//rework
-^880000Level 51 - 98^000000
-Hit + 120.
-Attack + 50.
-Does not work in WOE/BG/PVP maps.
+4299#
+MDEF + 5
+Increase Matk by 1% per refine rate.
+[^000088Tower Manager & Clock & Alarm Card Combo^000000]
 Class :^777777 Card^000000
-Compound on :^777777 Accessory^000000
+Compound on :^777777 Armor^000000
 Weight :^777777 1^000000
 #
 4300#TODO//rework
@@ -2357,6 +2357,7 @@ Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
 #
 4301#
+STR + 1
 Autocast level 5 ^008800Magnum Break^000000 when using ^008800Mammonite^000000.
 [^333399Refine Rate 9~10^000000]
 Autocast level 10 ^008800Magnum Break^000000 instead.
@@ -2370,7 +2371,7 @@ DEF - 50, MDEF - 50
 Class :^777777 Card^000000
 Compound on :^777777 Armor^000000
 Weight :^777777 1^000000
-#
+#	
 4303#
 Flee Rate + 25.
 [^008800Base Strength >= 80^000000]
@@ -2383,7 +2384,7 @@ Class :^777777 Card^000000
 Compound on :^777777 Armor^000000
 Weight :^777777 1^000000
 #
-4304#TODO//revert+improve
+4304#
 5% chance when being hit by ranged attacks to cast ^000088Shield Boomerang Level 5^000000.
 5% chance when being hit by melee attacks to cast ^000088Shield Charge Level 5^000000.
 ^000088Shield Boomerang^000000 damage + 3% per refine rate of your shield.
@@ -2576,14 +2577,14 @@ Weight :^777777 1^000000
 Matk + 2%
 Spell casting can not be interrupted.
 Increase Casting Time by 20%.
-[^000088+ Miyabi Doll & Evil Nymph^000000]
+[^000088Bloody Butterfly & Miyabi Doll & Evil Nymph Card Combo^000000]
 [^008800Sage, Professor^000000]
 ՠINT + 3
 ՠDEX + 3
 ՠAttack speed + 5%
 ՠMatk + 5%
 ՠMax HP + 5%
-ՠReflect single target Magic back at the caster (Success Chance 20%).
+ՠReflect single target Magic back at the caster (Success Chance 20%)
 ՠReduce Casting Time by 30%.
 Class :^777777 Card^000000
 Compound on :^777777 Accessory^000000
@@ -2768,7 +2769,7 @@ Weight :^777777 1^000000
 4348#
 Add a 10% chance of auto casting ^008800Level 5 Strip Armor^000000 on the enemy when attacking.
 If ^008800Level 5 Full Strip^000000 is learned, 10% chance of auto casting ^008800Level 5 Full Strip^000000 instead.
-[^000088+ Wanderer & Wild Rose ^000000]
+[^000088Wanderer & The Paper & Wild Rose Card Combo^000000]
 [^008800Rogue, Stalker^000000]
 ՠFlee + 30.
 ՠAttack Range + 1.
@@ -2977,20 +2978,6 @@ VIT + 2
 ATK + 5
 Max HP + 5%
 Increase Casting Time by 10%.
-[^000088+ Permeter & Freezer & Heater^000000]
-[^008800Crusader, Paladin^000000]
-ՠINT + 3
-ՠSTR + 3
-ՠVIT + 3
-ՠAttack power + 2%
-ՠMatk + 2%
-ՠAttack speed + 10%
-ՠMax HP + 10%
-ՠDEF + 2
-ՠSP Recovery + 10%
-ՠInflict 30% more damage with Grand Cross, Holy Cross, and Sacrifice.
-ՠReduce Casting Time by 10%.
-ՠBlesses an Armor with the ^777777Holy^000000 Property.
 Class :^777777 Card^000000
 Compound on :^777777 Armor^000000
 Weight :^777777 1^000000
