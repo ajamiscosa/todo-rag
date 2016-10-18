@@ -2445,9 +2445,7 @@ VIT + 1
 DEF + 2
 [^008800Swordsman class^000000]
 Enables use of ^008800Level 10 Spear Boomerang^000000.
-Pull your target next to you when Using ^008800Spear Boomerang^000000.
 ^008800Spear Boomerang^000000 cooldown increased to 5 seconds.
-[^000088Assaulter & Freezer & Heater Card Combo^000000]
 Class :^777777 Card^000000
 Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
@@ -2482,7 +2480,7 @@ Compound on :^777777 Accessory^000000
 Weight :^777777 1^000000
 #
 4316#
-^008800Monk Class^000000
+[^008800Monk Class^000000]
 2% chance to cast ^008800Level 1 Steel Body^000000 when hit by Physical attacks
 Maximum HP + 5%
 Class :^777777 Card^000000
@@ -2508,7 +2506,6 @@ Maximum HP + 4%
 VIT + 2
 [^333399Refine Rate 9~10^000000]
 Increase Max HP by an additional 8%
-[^000088Assaulter & Permeter & Heater Card Combo^000000]
 Class :^777777 Card^000000
 Compound on :^777777 Footgear^000000
 Weight :^777777 1^000000
@@ -2540,9 +2537,9 @@ Weight :^777777 1^000000
 #
 4324#
 Immunity from Freeze
-+ 5 Def
-+ 5 Mdef
-+ 10% Max HP
+DEF + 5
+MDEF + 5
+Maximum HP + 10
 Add a 50% chance of auto casting '^880000Freeze^000000' on an enemy when the user receives Physical Damage.
 Class :^777777 Card^000000
 Compound on :^777777 Armor^000000
@@ -2568,7 +2565,7 @@ Compound on :^777777 Garment^000000
 Weight :^777777 1^000000
 #
 4326#
-5% chance to cast [^008800 Fog Wall^000000] when being attacked
+5% chance to cast [^008800Wall of Fog^000000] when being attacked.
 Class :^777777 Card^000000
 Compound on :^777777 Accessory^000000
 Weight :^777777 1^000000
@@ -2985,7 +2982,7 @@ Weight :^777777 1^000000
 4372#
 Increases effectiveness of your ^008800Heal, Sanctuary and Potion Pitcher^000000 by 50%.
 Increase healing received by 5%
-Increases SP taken by all skills by 20%.
+Increases SP taken by all skills by 20%
 ^008800Heal^000000 gains a 15-cell radius when casted on your party.
 Class :^777777 Card^000000
 Compound on :^777777 Headgear^000000
