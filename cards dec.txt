@@ -1237,20 +1237,9 @@ Inflict 20% more damage with Critical attacks.
 Drain 1 SP from its owner on each attack.
 Attack + 10
 [^000088Wanderer & The Paper & Wild Rose Card Combo^000000]
-ՠAssassin tree only
-ՠAGI + 3
-ՠSTR + 3
-ՠMovespeed + 25%
-ՠAttack Speed + 10%.
-ՠCritical damage + 20
-ՠCritical chance + 5%
-ՠFlee + 10
-ՠPerfect Flee + 5
-ՠHit + 20
-ՠ+ 5% damage reduction from all sizes
-ՠ+ 10% damage to all sizes
-ՠGain 1 SP per hit
-ՠAttack Range + 1.
+[^008800Assassin, Assassin Cross^000000]
+[^000088Wanderer & The Paper & Whikebain Card Combo^000000]
+[^008800Rogue, Stalker^000000]
 Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
@@ -1359,18 +1348,7 @@ Maximum HP + 5%, DEF + 5.
 [^333399Refine Rate 9~10^000000]
 Maximum HP + 5%
 [^000088Raggler & Zipper Bear & Myst Case Combo^000000]
-[^008800Blacksmith tree Class^000000]
-ՠRestore 2 SP every time when attacking.
-ՠInflict 30% more damage with ^008800Mammonite^000000.
-ՠInflict 30% more damage with ^008800Cart Revolution^000000.
-ՠLUK + 10
-ՠSTR + 3
-ՠVIT + 3
-ՠAttack speed + 5%
-ՠHit + 30
-ՠMax HP + 5%
-ՠ+ 10% damage to all sizes
-ՠAdd a chance of gaining "Old Purple Box" each time a monster is killed.
+[^000088Raggler & Zipper Bear & Mole Card Combo^000000]
 Class :^777777 Card^000000
 Compound on :^777777 Footgear^000000
 Weight :^777777 1^000000
@@ -1532,6 +1510,18 @@ Weight :^777777 1^000000
 LUK + 2
 Add a chance of gaining "Gift Box" each time a monster is killed.
 [^000088Raggler & Zipper Bear & Myst Case Combo^000000]
+[^008800Blacksmith tree Class^000000]
+ՠRestore 2 SP every time when attacking.
+ՠInflict 30% more damage with ^008800Mammonite^000000.
+ՠInflict 30% more damage with ^008800Cart Revolution^000000.
+ՠLUK + 10
+ՠSTR + 3
+ՠVIT + 3
+ՠAttack speed + 5%
+ՠHit + 30
+ՠMax HP + 5%
+ՠ+ 10% damage to all sizes
+ՠAdd a chance of gaining "Old Purple Box" each time a monster is killed.
 Class :^777777 Card^000000
 Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
@@ -1566,7 +1556,10 @@ Critical Damage + 5%
 [^333399Refine Rate 9~10^000000]
 Attack speed + 2%.
 Critical chance + 5%.
-[^000088Wanderer & The Paper & Wild Rose^000000]
+[^000088Wanderer & The Paper & Wild Rose Card Combo^000000]
+[^008800Assassin, Assassin Cross^000000]
+[^000088Wanderer & The Paper & Whikebain Card Combo^000000]
+[^008800Rogue, Stalker^000000]
 Class :^777777 Card^000000
 Compound on :^777777 Garment^000000
 Weight :^777777 1^000000
@@ -1767,6 +1760,7 @@ Attack + 5
 Add a 3% chance of auto casting ^008800Level 1 Attention Concentrate^000000 on the user when the user receives Physical Damage.
 If the user has mastered the skill at Level 10, it will cast ^008800Level 10 Attention Concentrate^000000.
 [^000088Merman & Cruiser & Anolian Card Combo^000000]
+[^000088Green Ferus & Cruiser & Anolian Card Combo^000000]
 Class :^777777 Card^000000
 Compound on :^777777 Armor^000000
 Weight :^777777 1^000000
@@ -1965,6 +1959,20 @@ Perfect Dodge + 5.
 [^333399Refine Rate 9~10^000000]
 Maximum HP + 5%.
 [^000088Wanderer & The Paper & Wild Rose Card Combo^000000]
+[^008800Assassin, Assassin Cross^000000]
+ՠAGI + 3
+ՠSTR + 3
+ՠMovespeed + 25%
+ՠAttack Speed + 10%.
+ՠCritical damage + 20
+ՠCritical chance + 5%
+ՠFlee + 10
+ՠPerfect Flee + 5
+ՠHit + 20
+ՠ+ 5% damage reduction from all sizes
+ՠ+ 10% damage to all sizes
+ՠGain 1 SP per hit
+ՠAttack Range + 1.
 Class :^777777 Card^000000
 Compound on :^777777 Footgear^000000
 Weight :^777777 1^000000
@@ -2178,6 +2186,7 @@ Drain 1 SP from its owner on each attack.
 [^008800Merchant Class^000000]
 Make a weapon indestructible (except in upgrade attempts).
 [^000088Raggler & Zipper Bear & Myst Case Combo^000000]
+[^000088Raggler & Zipper Bear & Mole Card Combo^000000]
 Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
@@ -2326,6 +2335,7 @@ Weight :^777777 1^000000
 4297#
 + 15% Long ranged attack damage
 [^000088Merman & Cruiser & Anolian Card Combo^000000]
+[^000088Green Ferus & Cruiser & Anolian Card Combo^000000]
 Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
@@ -2618,7 +2628,6 @@ VIT + 1
 [^008800Swordman Class^000000]
 Flee + 5
 Critical chance + 3%
-[^000088Assaulter & Permeter & Freezer Card Combo^000000]
 Class :^777777 Card^000000
 Compound on :^777777 Accessory^000000
 Weight :^777777 1^000000
@@ -2627,7 +2636,6 @@ Weight :^777777 1^000000
 STR + 1
 DEX + 1
 Max SP + 50
-[^000088+ Rideword & Cookie & Seal^000000]
 [^008800Monk, Champion^000000]
 ՠSTR + 3
 ՠDEX + 3
@@ -2641,7 +2649,7 @@ Class :^777777 Card^000000
 Compound on :^777777 Armor^000000
 Weight :^777777 1^000000
 #
-4333#
+4333#//TODO-REWORK
 Add a 30% chance of auto casting '^880000Poison^000000' on an enemy and yourself when the user receives Physical Damage.
 Class :^777777 Card^000000
 Compound on :^777777 Armor^000000
@@ -2670,7 +2678,7 @@ Weight :^777777 1^000000
 ^008800Glacier Fist^000000 damage + 15% per refine rate.
 ^008800Chain Crush Combo^000000 damage + 15% per refine rate.
 + 10% chance per refine rate to autocast ^008800Zen^000000 after using ^008800Chain Crush Combo^000000.
-^008800Body Relocation^000000 gains a 10-second cooldown.
+^008800Body Relocation^000000 gains a 5-second cooldown.
 Class :^777777 Card^000000
 Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
@@ -2690,8 +2698,9 @@ Class :^777777 Card^000000
 Compound on :^777777 Armor^000000
 Weight :^777777 1^000000
 #
-4339#TODO//rework
-Increase damage on Formless monster by 5%.
+4339#
+ATK + 25
+Incrase ASPD by 0.5 for every refine rate.
 Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
@@ -2713,6 +2722,7 @@ Can not be knocked back.
 Max HP + 10%
 VIT + 3
 Gain 25% damage reduction from Bosses.
+Indestructable except in upgrade attempts.
 Class :^777777 Card^000000
 Compound on :^777777 Armor^000000
 Weight :^777777 1^000000
@@ -2720,7 +2730,7 @@ Weight :^777777 1^000000
 4343#
 INT + 1
 Reduce Casting delay by 5%
-[^000088+ Raggler & Zipper Bear^000000]
+[^000088Raggler & Zipper Bear & Mole Card Combo^000000]
 [^008800Alchemist, Creator^000000]
 ՠDEX + 3
 ՠINT + 3
@@ -2766,7 +2776,7 @@ Weight :^777777 1^000000
 4348#
 Add a 10% chance of auto casting ^008800Level 5 Strip Armor^000000 on the enemy when attacking.
 If ^008800Level 5 Full Strip^000000 is learned, 10% chance of auto casting ^008800Level 5 Full Strip^000000 instead.
-[^000088Wanderer & The Paper & Wild Rose Card Combo^000000]
+[^000088Wanderer & The Paper & Whickebain Card Combo^000000]
 [^008800Rogue, Stalker^000000]
 ՠFlee + 30.
 ՠAttack Range + 1.
@@ -2793,14 +2803,11 @@ Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
 #
-4351#TODO//revert+improve
-Increase damage of ^008800Backstab^000000 by 30%.
-Gain 20% movespeed for 1 second when using ^008800Backstab^000000.
-[^333399Refine Rate 9~10^000000]
-Additional 20% ^008800Backstab^000000 damage.
-Gain additional 10% movespeed for 1 second when using ^008800Backstab^000000.
+4351#
+Increase damage of ^008800Double Strafe^000000 by 50%.
+Add a 10% chance to inflict ^FF0000Curse^000000 enemy when using ^008800Double Strafe^000000.
 Class :^777777 Card^000000
-Compound on :^777777 Armor^000000
+Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
 #
 4352#
@@ -2808,7 +2815,6 @@ VIT + 5
 Maximum HP and SP + 10%.
 Regenerate 500 HP per second.
 Gain 10% Lifesteal.
-Increases Maximum HP and Maximum SP by 10%.
 Lose 10,000 HP when unequipped.
 Class :^777777 Card^000000
 Compound on :^777777 Footgear^000000
@@ -2837,7 +2843,7 @@ SP Consumption - 20%
 Flee + 10
 [^333399Refine Rate 9~10^000000]
 Critical Damage + 15%
-[^000088+Martin Card^000000]
+[^000088Martin & Gremlin Card Combo^000000]
 Movement Speed + 10%
 Reduce damage taken from All Sizes by 10%.
 HP Recovery + 5%
@@ -2870,7 +2876,7 @@ Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
 #
 4359#
-Enables use of ^008800Hide Level 1^000000 and ^008800Cloaking Level 1^000000.
+Enables use of ^008800Hide Level 3^000000 and ^008800Cloaking Level 3^000000.
 Attack speed + 5%, Flee + 30, Attack + 10.
 Gain + 1% movement speed per refine.
 Gain + 2 Flee per refine.
@@ -2891,13 +2897,14 @@ Weight :^777777 1^000000
 #
 4361#
 Add a 10% chance of breaking the enemy's weapon and a 7% chance of breaking the enemy's armor when attacking.
-Increases damage inflicted on all enemies by 10%.
+Enables use of ^00FF00Maximum Overthrust Level 3^000000.
 Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
 #
-4362#TODO//revert+improve
-50% chance to cast ^008800Lex Aeterna^000000 on your target when using ^008800Holy Light^000000.
+4362#
+HIT + 50
+Add a small chance of casting ^00FF00Hammer Fall Level 3^000000 while attacking.
 Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
@@ -2933,7 +2940,7 @@ Class :^777777 Card^000000
 Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
 #
-4367#
+4367#current
 [^008800Archer/Gunslinger class^000000]
 Enables use of ^008800Improve Concentration^000000 Level 10.
 Autocast ^008800No Limits level1^000000 when using ^008800Improve Concentration^000000.
@@ -3022,16 +3029,16 @@ Compound on :^777777 Footgear^000000
 Weight :^777777 1^000000
 #
 4377#
-+ 15% Tolerance to Sleep/Freeze/Stone/Silence/Curse
+Add 15% Tolerance to Sleep/Freeze/Stone/Silence/Curse.
 Class :^777777 Card^000000
 Compound on :^777777 Accessory^000000
 Weight :^777777 1^000000
 #
-4378#TODO//revert+improve
-Chance to get a Taming item when killing a monster
-Flail Goblin ring, Forbidden Red candle, Girl's doll,
-Girl's Naivety, Hammer Goblin ring, Hell Contract,
-Her Heart, Well Dried Bone, Vagabond's Skull
+4378#
+Maximum HP and SP + 10%
+[^333399Refine Rate 9~10^000000]
+Additional Maximum HP and SP + 5%
+HP and SP Recovery + 5%
 Class :^777777 Card^000000
 Compound on :^777777 Footgear^000000
 Weight :^777777 1^000000
@@ -3057,8 +3064,8 @@ Weight :^777777 1^000000
 4381#
 VIT + 1
 Maximum HP + 10%
-[^000088+ Cruiser & Anolian & Dragon Tail^000000]
-[^008800Bard, Dancer, Clown, Gypsy^000000]
+[^000088Cruiser & Anolian & Green Ferus Card Combo^000000]
+[^008800Bard, Dancer^000000]
 ՠDEX + 5
 ՠVIT + 3
 ՠMax HP + 3%
@@ -3110,16 +3117,16 @@ Class :^777777 Card^000000
 Compound on :^777777 Armor^000000
 Weight :^777777 1^000000
 #
-4387#TODO//revert
-Chance to receive an Old Purple Box when killing monsters
-^008800 +Mimic Card^000000
-Chance is increased depending on the Monster's level
+4387#
+Every 18 Base LUK, you gain 1 AGI.
 Class :^777777 Card^000000
-Compound on :^777777 Accessory^000000
+Compound on :^777777 Armor^000000
 Weight :^777777 1^000000
 #
-4388#TODO//rework
-Increase damage on Angel monster by 5%.
+4388#
+INT + 1
+Inflict 10% more damage with ^008800Soul Strike, Napalm Beat, Napalm Vulcan^000000.
+-50 SP when unequipped.
 Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
@@ -3171,17 +3178,15 @@ Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
 #
 4395#
+ATK + 5
 Add a 10% chance of auto casting ^008800Level 5 Decrease Agility^000000 on the enemy when attacking.
 Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
 #
-4396#TODO//revert
-Mdef - 10
-100% chance when being hit by Magic attacks to increase movement rate by 10% for 2 seconds.
-Bonus movement speed stacks with other movement enhancements.
-[^333399Refine Rate 9~10^000000]
-Increase the movement rate by 20% for 2 seconds instead.
+4396#
+AGI - 6
+Increase AGI and ASPD Rate by an amount equal to the refine rate of the equipment this card is compounded on.
 Class :^777777 Card^000000
 Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
