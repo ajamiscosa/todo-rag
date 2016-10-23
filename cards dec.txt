@@ -46,7 +46,8 @@ Weight :^777777 1^000000
 #
 4008#
 ^880000Level 1 - 98^000000
-Reduce SP Consumption by 60%.
+Reduces all skill's after-cast delay by 20%.
+[^880000Picky & Picky Egg Card Combo^000000]
 Does not work in WOE/BG/PVP maps.
 Class :^777777 Card^000000
 Compound on :^777777 Headgear^000000
@@ -54,9 +55,7 @@ Weight :^777777 1^000000
 #
 4009#
 ^880000Level 1 - 98^000000
-Reduce casting delay by 20%.
-^880000+ Argiope card^000000
-Reduce casting delay by 30% instead.
+Reduce SP Consumption by 60%.
 Does not work in WOE/BG/PVP maps.
 Class :^777777 Card^000000
 Compound on :^777777 Footgear^000000
@@ -70,9 +69,10 @@ Weight :^777777 1^000000
 #
 4011#
 ^880000Level 1 - 98^000000
-Flee + 30.
-^000088+ Cornutus^000000
-Flee + 30.
+Reduces all skill's casting time by 32%.
+[^880000Picky & Picky Egg Card Combo^000000]
+Reduce casting time by an additional 10%.
+Reduce casting delay by an additional 10%.
 Does not work in WOE/BG/PVP maps.
 Class :^777777 Card^000000
 Compound on :^777777 Armor^000000
@@ -115,8 +115,7 @@ Compound on :^777777 Armor^000000
 Weight :^777777 1^000000
 #
 4017#
-Causes ^880000Stun^000000 effect to enemies by 8% chance.
-ATK + 5
+Add a 5% chance to cast ^00FF00Bash Level 5^000000 to an enemy when attacking.
 Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
@@ -171,7 +170,7 @@ Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
 #
 4025#
-Inflict ^880000Curse^000000 status when you attack (Success Chance 8%).
+Inflict ^880000Stun^000000 status when you attack (Success Chance 8%).
 ATK + 5
 Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
@@ -327,18 +326,12 @@ Compound on :^777777 Shield^000000
 Weight :^777777 1^000000
 #
 4046#
-[^008800Priest/High Priest Class^000000]
+[^008800Priest, High Priest^000000]
 ASPD + 5%
 Base Attack + 25
 [^333399Refine Rate 9~10^000000]
 Critical Rate + 10
-[^000088+Gremlin Card^000000]
-Movement Speed + 10%
-+ 10% damage reduction from all sizes
-HP Recovery + 5%
-SP Recovery + 5%
-Base Attack + 25
-ASPD + 5%
+[^000088Martin & Gremlin Card Combo^000000]
 Class :^777777 Card^000000
 Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
@@ -1180,7 +1173,7 @@ Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
 #
-4166#TODO//rework
+4166#
 [^333399Only works if you are using 2H melee weapons or Dual-Wielding^000000]
 Attack Speed + 5%.
 Gain an additional 1% attack speed per refine rate.
@@ -1188,8 +1181,11 @@ Class :^777777 Card^000000
 Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
 #
-4167#TODO//rework
-Increase damage on Brute monster by 5%.
+4167#
+[^008800Priest, High Priest^000000]
+ATK + 10
+For each level of Mace Mastery, CRIT + 2%.
+[^008800Neraid & Dark Frame & Retribution Card Combo^000000]
 Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
@@ -1215,12 +1211,14 @@ Class :^777777 Card^000000
 Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
 #
-4170#TODO//rework
-^880000Level 51 - 98^000000
-MATK + 50%.
-Does not work in WOE/BG/PVP maps.
+4170#
+AGI + 1
+Increase Movement Speed by 1% for every refine.
+[^008800Priest, High Priest^000000]
+Add a small chance of casting ^00FF00Increase AGI^000000 when receiving damage.
+[^008800Neraid & Dark Frame & Retribution Card Combo^000000]
 Class :^777777 Card^000000
-Compound on :^777777 Armor^000000
+Compound on :^777777 Footgear^000000
 Weight :^777777 1^000000
 #
 4171#
@@ -1244,11 +1242,9 @@ Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
 #
-4173#TODO//rework
-^880000Level 1 - 98^000000
-Critical chance + 20%.
-Attack speed + 10%.
-Does not work in WOE/BG/PVP maps.
+4173#
+Critical Rate + 7%
+ASPD - 3%
 Class :^777777 Card^000000
 Compound on :^777777 Armor^000000
 Weight :^777777 1^000000
@@ -1989,9 +1985,9 @@ Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
 #
 4259#
-DEF + 2
+DEF - 2
 [^008800Crusader, Paladin^000000]
-Add a small chance to activate [^008800Castle of Stone^000000] which drastically reduce user's movement speed while giving 5% HP Recovery Rate and increasing DEF and MDEF by 99 for 5 seconds when the user's HP drops below 20%
+Add a small chance to activate [^008800Castle of Stone^000000] which drastically reduce user's movement speed while giving 5% HP Recovery Rate and increasing DEF and MDEF by 99 for 5 seconds when receiving damage.
 [^000088Wooden Golem & Wootan Shooter & Wootan Fighter card Combo^000000]
 [^008800Crusader, Paladin^000000]
 ՠINT + 3
@@ -2456,6 +2452,7 @@ DEF + 2
 [^008800Swordsman class^000000]
 Enables use of ^008800Level 10 Spear Boomerang^000000.
 ^008800Spear Boomerang^000000 cooldown increased to 5 seconds.
+[^000088Permeter & Freezer & Heater Card Combo^000000]
 Class :^777777 Card^000000
 Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
@@ -2516,6 +2513,7 @@ Maximum HP + 4%
 VIT + 2
 [^333399Refine Rate 9~10^000000]
 Increase Max HP by an additional 8%
+[^000088Permeter & Freezer & Heater Card Combo^000000]
 Class :^777777 Card^000000
 Compound on :^777777 Footgear^000000
 Weight :^777777 1^000000
@@ -2628,6 +2626,20 @@ VIT + 1
 [^008800Swordman Class^000000]
 Flee + 5
 Critical chance + 3%
+[^000088Permeter & Freezer & Heater Card Combo^000000]
+[^008800Knight tree Class^000000]
+ՠSTR + 10
+ՠMax HP + 10%
+ՠDEF + 5
+ՠMDEF + 5
+ՠHit + 20
+ՠAttack + 20
+ՠIncrease damage to all sizes by 10%
+ՠAdd a 0.3% chance of auto casting ^008800Level 3 Weapon Perfection^000000 on the enemy when attacking.
+ՠAttack speed + 5%
+ՠCritical chance + 5%
+ՠIncrease damage of Bowling bash and Spiral Pierce by 20%
+ՠIncrease damage of Pierce by 30%
 Class :^777777 Card^000000
 Compound on :^777777 Accessory^000000
 Weight :^777777 1^000000
@@ -2636,6 +2648,7 @@ Weight :^777777 1^000000
 STR + 1
 DEX + 1
 Max SP + 50
+[^000088Waste Stove & Venomous & Mineral Card Combo^000000]
 [^008800Monk, Champion^000000]
 ՠSTR + 3
 ՠDEX + 3
@@ -2649,10 +2662,12 @@ Class :^777777 Card^000000
 Compound on :^777777 Armor^000000
 Weight :^777777 1^000000
 #
-4333#//TODO-REWORK
-Add a 30% chance of auto casting '^880000Poison^000000' on an enemy and yourself when the user receives Physical Damage.
+4333#
+STR + 1
+Increase Maximum HP and SP by 1% per refine rate.
+[^000088Waste Stove & Venomous & Mineral Card Combo^000000]
 Class :^777777 Card^000000
-Compound on :^777777 Armor^000000
+Compound on :^777777 Footgear^000000
 Weight :^777777 1^000000
 #
 4334#
@@ -2665,7 +2680,7 @@ Compound on :^777777 Garment^000000
 Weight :^777777 1^000000
 #
 4335#
-Int + 1
+INT + 1
 Inflict 25% more damage with ^008800Earth Spike and Heavens Drive^000000.
 -50 SP when unequipped.
 Class :^777777 Card^000000
@@ -2701,6 +2716,7 @@ Weight :^777777 1^000000
 4339#
 ATK + 25
 Incrase ASPD by 0.5 for every refine rate.
+[^000088Waste Stove & Venomous & Mineral Card Combo^000000]
 Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
@@ -2837,7 +2853,7 @@ Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
 #
 4355#
-[^008800Priest/High Priest Class^000000]
+[^008800Priest, High Priest^000000]
 When Physically attacking, an area 11 * 11 area will get hit for 100% damage while you regain 100% damage worth of HP.
 SP Consumption - 20%
 Flee + 10
@@ -3146,27 +3162,37 @@ Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
 #
-4391#TODO//rework
-20% chance when using ^008800 Spell Breaker^000000 to reduce casting time by 30% for 3 seconds.
+4391#
+[^008800Priest, High Priest^000000]
+Increase damage by 20% when using ^996600Mace^000000 type weapons.
+STR + 2
+[^008800Neraid & Dark Frame & Retribution Card Combo^000000]
+ՠSTR + 3
+ՠDEX + 3
+ՠASPD + 3
+ՠMax HP + 10%
+ՠMax SP + 10%
+ՠIncrease Physical Damage dealt to All Sizes by 10%
+ՠEnables use of ^008800Double Attack Level 10^000000
+ՠAdd a 50% chance to cast ^008800Lex Aeterna Level 1^000000 while attacking.
 Class :^777777 Card^000000
-Compound on :^777777 Accessory^000000
+Compound on :^777777 Armor^000000
 Weight :^777777 1^000000
 #
 4392#
 Every 18 Base VIT, you gain 1 DEX.
-Class :^777777 Card^000000
 [^333399Refine Rate 9~10^000000]
 Every 9 Base VIT, gain 3 DEX instead.
+Class :^777777 Card^000000
 Compound on :^777777 Armor^000000
 Weight :^777777 1^000000
 #
 4393#
 Every 9 Base STR, you gain 1 INT.
-Casting time + 10%
 [^333399Refine Rate 9~10^000000]
 Every 9 Base STR, gain 3 INT instead.
 Class :^777777 Card^000000
-Compound on :^777777 Garment^000000
+Compound on :^777777 Armor^000000
 Weight :^777777 1^000000
 #
 4394#
@@ -3239,13 +3265,13 @@ Compound on :^777777 Garment^000000
 Weight :^777777 1^000000
 #
 4403#
-Reduces all skill's after-cast delay by 20%.
+Reduces all skill's after-cast delay by 30%.
 Max HP + 5%.
 Class :^777777 Card^000000
 Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
 #
-4404#
+4404#TODO//rework
 DEF - 5.
 Gain 3 Flee per 9 Base Luk.
 Lose 1 DEF per 9 Base Luk.
@@ -3256,7 +3282,7 @@ Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
 #
 4405#
-Reflect single target Magic back at the caster by 2 times the refine rate chance. When used by a mage type character, MDEF + 3.
+Reflect single target Magic back at the caster by 2 times the refine rate. When used by a mage type character, MDEF + 3.
 However, the reflect chance increases only up to + 10 refine.
 [^008800Mage Class^000000]
 MDEF + 3
@@ -3344,18 +3370,16 @@ Class :^777777 Card^000000
 Compound on :^777777 Accessory^000000
 Weight :^777777 1^000000
 #
-4417#TODO//revert
-Chance to get a Taming item when killing a monster
-Holy Marble, Ice Fireworks, Knife Goblin ring, Kuloren,
-Leaf Cat ball, Luxury Whisky bottle, Magical Lithography,
-Tropical Banana, Unripe Apple
+4417#
+VIT + 2
+For 10 seconds DEF + 10 when the user receives Physical or Magical Damage.
 Class :^777777 Card^000000
 Compound on :^777777 Footgear^000000
 Weight :^777777 1^000000
 #
 4418#
 Increase damage of ^008800 Infiltration^000000 by 20%.
-^008800+Knocker Card^000000
+[^008800Gazeti & Knocker Card Combo^000000]
 Increase damage of ^008800 Infiltration^000000 by 40% instead.
 + 50% chance to gain 1 spirit Sphere when using the skill.
 Class :^777777 Card^000000
@@ -3369,10 +3393,8 @@ Class :^777777 Card^000000
 Compound on :^777777 Armor^000000
 Weight :^777777 1^000000
 #
-4420#TODO//revert+improve
-100% chance to cast a random level of ^008800Soul Strike^000000 when attacking.
-[^333399Refine Rate + 10^000000]
-??????
+4420#
+Add a small chance to activate ^00FF00Inner Vitality^000000 which recovers 4% of Maximum HP for 5 seconds when the user receives Physical Damage.
 Class :^777777 Card^000000
 Compound on :^777777 Shield^000000
 Weight :^777777 1^000000
@@ -3388,26 +3410,26 @@ Weight :^777777 1^000000
 4422#
 ^008800[Soul Linker and Ninja Only]^000000
 Reduce casting time of skills by 10%
-^008800+Gallion Card^000000
+[^008800Roween & Gallion Card Combo^000000]
 Reduce casting time of skills by 30% instead
 Class :^777777 Card^000000
 Compound on :^777777 Garment^000000
 Weight :^777777 1^000000
 #
 4423#
-^008800[Soul Linker and Ninja Only]^000000
+[^008800Soul Linker and Ninja Only^000000]
 INT + 1, Matk + 10%
-^008800+Roween Card^000000
+[^008800Roween & Gallion Card Combo^000000]
 Additional 15% Matk
 Class :^777777 Card^000000
 Compound on :^777777 Accessory^000000
 Weight :^777777 1^000000
 #
-4424#TODO//revert
-Chance to to obtain a taming item when killing monsters
-Deadly Noxious Herb, Delicious Shaved Ice, Dew Laden Moss,
-Earthworm the dude, Fan of Wind, Fatty Chubby Earthworm,
-Fit Pipe, Very red Juice, Very soft Plant
+4424#
+DEF - 5
+Increase Maximum HP by 1% for every refine rate.
+Increase Maximum SP by 0.5% for every refine rate.
+Add a small chance of 
 Class :^777777 Card^000000
 Compound on :^777777 Footgear^000000
 Weight :^777777 1^000000
@@ -3428,8 +3450,8 @@ Weight :^777777 1^000000
 #
 4427#
 HIT + 10.
-Increases ^008800Bowling Bash^000000 damage with a one hand or two handed sword by 25%.
 20% chance of autocasting ^008800Bowling Bash^000000 Level 10 when attacking.
+Increases ^008800Bowling Bash^000000 damage with a one hand or two handed sword by 25%.
 [^333399Refine Rate 9~10^000000]
 Increase damage of ^008800Bowling Bash^000000 by 10%.
 Class :^777777 Card^000000
@@ -3446,16 +3468,13 @@ Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
 #
 4429#
-Autocast level 10 ^008800Fire Pillar^000000 on yourself when using ^008800Fire Pillar^000000.
-[^333399Refine Rate 9~10^000000]
 Inflict 40% more damage with ^008800Fire Pillar and Meteor Storm^000000.
-+ 5% damage reduction from ALL sizes.
 Class :^777777 Card^000000
 Compound on :^777777 Garment^000000
 Weight :^777777 1^000000
 #
 4430#
-Increase ATK, Critical Rate, and HIT every 10 Job Level.
+Increase ATK, Critical Rate, and HIT every 7 Job Levels.
 Add a 1% chance of auto casting ^008800Level 5 Earthquake^000000 on the user when the user receives Physical Damage.
 Class :^777777 Card^000000
 Compound on :^777777 Accessory^000000
@@ -3491,7 +3510,7 @@ Weight :^777777 1^000000
 Increase damage of ^008800Finger Offfensive^000000 by 20%.
 [^333399Refine Rate 9~10^000000]
 Reduce casting time of ^008800Finger Offensive and Infiltration^000000 by 10%.
-[^008800+Gazeti Card^000000]
+[^008800Gazeti & Knocker Card Combo^000000]
 Increase damage of ^008800Finger Offfensive^000000 by 40% instead.
 + 50% chance to gain 5 spirit spheres when using ^008800Finger Offensive^000000.
 Class :^777777 Card^000000
@@ -3500,22 +3519,22 @@ Weight :^777777 1^000000
 #
 4435#
 + 10% chance to get ^000088Bottle Grenade^000000 when killing a monster.
-[^000088+Ragged Zombie Card^000000]
-chance is increased to 30%.
+[^000088Zombie Slaughter & Ragged Zombie Card Combo^000000]
+Chance is increased to 30%.
 Class :^777777 Card^000000
 Compound on :^777777 Footgear^000000
 Weight :^777777 1^000000
 #
 4436#
 + 10% chance to get ^000088Acid Bottle^000000 when killing a monster.
-[^000088+Zombie Slaughter^000000]
-chance is increased to 30%.
+[^000088Zombie Slaughter & Ragged Zombie Card Combo^000000]
+Chance is increased to 30%.
 Class :^777777 Card^000000
 Compound on :^777777 Accessory^000000
 Weight :^777777 1^000000
 #
 4437#
-+ 100% chance of autocasting Blacksmith support skills when using ^008800Maximum Over Thrust^000000.
+Autocast all Smith support skills when using ^008800Maximum Over Thrust^000000.
 ^008800Level 10 Meltdown^000000.
 ^008800Level 1 Cart Boost^000000.
 ^008800Level 5 Maximize Power^000000.
@@ -3559,12 +3578,12 @@ Compound on :^777777 Footgear^000000
 Weight :^777777 1^000000
 #
 4442#
-+ 15% damage reduction against ALL sizes
-Decreases damage from ^996600Earth^000000 Property by 20%.
-Increases damage dealing to ^996600Earth^000000 Property by 5%.
-Receive 15% more damage from ^FF0000Fire^000000 attacks
+Maximum SP -40%
+Add a 7.5% chance to cast ^008800Asura Strike Level 5^000000 for each level of ^008800Triple Attack^000000.
+Maximum 75% chance at Level 10 ^008800Triple Attack^000000.
+Does not work with bows.
 Class :^777777 Card^000000
-Compound on :^777777 Shield^000000
+Compound on :^777777 Accessory^000000
 Weight :^777777 1^000000
 #
 4443#
@@ -3577,12 +3596,10 @@ Compound on :^777777 Shield^000000
 Weight :^777777 1^000000
 #
 4444#
-+ 15% damage reduction against ALL sizes
-Decreases damage from ^FF0000Fire^000000 Property by 20%.
-Increases damage dealing to ^FF0000Fire^000000 Property by 5%.
-Receive 15% more damage from ^0000FFWater^000000 attacks
+^008800Asura Strike^000000 damage -30%
+Gain 300 SP per second after casting ^008800Asura Strike^000000 for 9 seconds.
 Class :^777777 Card^000000
-Compound on :^777777 Shield^000000
+Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
 #
 4445#
@@ -3620,19 +3637,19 @@ Compound on :^777777 Shield^000000
 Weight :^777777 1^000000
 #
 4450#
-INT + 5, MATK + 3%
+INT + 5, MATK + 5%
 Class :^777777 Card^000000
 Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
 #
 4451#
-MATK + 100.
+MATK + 30%
 Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
 #
 4452#
-INT + 1, MATK + 1%.
+INT + 1, MATK + 3%
 Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
